@@ -8,7 +8,7 @@ export default {
         success: '#12a454',
         success_light: 'rgba(18, 164, 84, 0.5)',
 
-        attention: '##e83f5b',
+        attention: '#e83f5b',
         attention_light: 'rgba(232, 63, 91, 0.5)',
 
         shape: '#fff',
